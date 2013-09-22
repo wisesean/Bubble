@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <info>
+   <version>1.0.0</version>
+   <updateserver>
+     <ip>136.6.192.227</ip>
+     <port>2110</port>
+   </updateserver>
+   <files>     
+     <file> 
+      <name>Bubble.jar</name>  
+      <path>./../Bubble/</path>
+      <subver>1.0.0.0</subver> 
+    </file>
+    <file> 
+      <name>Bubble.exe</name>  
+      <path>.</path>
+      <subver>1.0.0.0</subver> 
+    </file>
+    <file> 
+      <name>launcher.cfg</name>  
+      <path>.</path>
+      <subver>1.0.0.0</subver> 
+    </file> 
+    <file> 
+      <name>HOSTS</name>  
+      <path>./../configuration/</path>
+      <subver>1.0.0.0</subver> 
+    </file>   
+  </files> 
+</info>
